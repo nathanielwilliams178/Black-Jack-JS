@@ -1,0 +1,35 @@
+    body {
+        color: bisque;
+        text-align: center;
+        background: green;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    h1 {
+        color: goldenrod;
+        margin-top: 40px;
+        font-size: 100px;
+    }
+    
+    h2 {
+        font-size: 40px;
+        font-style: italic;
+    }
+    
+    p {
+        font-size: 30px;
+    }
+    
+    button {
+        color: #016f32;
+        width: 180px;
+        background: goldenrod;
+        height: 40px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        margin: .2em;
+        font-weight: bold;
+        font-size: large;
+        border: none;
+        border-radius: 2px;
+    }
